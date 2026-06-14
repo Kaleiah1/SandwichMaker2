@@ -30,4 +30,4 @@ class Cashier:
             return True
         else:
             print("Sorry, that's not enough money. Money refunded.")
-            #return False
+            return False
