@@ -1,6 +1,6 @@
 import cashier
 import data
-from sandwichmaker i#mport SandwichMachine
+from sandwichmaker import SandwichMachine
 from cashier import Cashier
 
 resources = data.resources

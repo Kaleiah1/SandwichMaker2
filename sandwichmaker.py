@@ -21,7 +21,7 @@ class SandwichMachine:
                 return False
         return True
 
-    def make_sandwich(self, sandwich_size, order_ingredients):
+    #def make_sandwich(self, sandwich_size, order_ingredients):
         """Deduct the required ingredients from the resources.
            Hint: no output"""
         for sandwich in order_ingredients:
